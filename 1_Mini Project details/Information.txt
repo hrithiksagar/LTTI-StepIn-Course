@@ -21,3 +21,6 @@ keep all these documents on github public repo
 - do not use any of the bots in github as it will lead to blocking of repo
 - use github workflows for analysis before and after compilation
 - use github - Wiki
+
+
+HackerEarth Website link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/
