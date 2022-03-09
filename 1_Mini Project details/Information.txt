@@ -23,4 +23,4 @@ keep all these documents on github public repo
 - use github - Wiki
 
 
-HackerEarth Website link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/
+HackerEarth Website link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/ looking for 1000 points
